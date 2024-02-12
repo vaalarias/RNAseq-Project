@@ -1,3 +1,4 @@
+## librerias necesarias
 library("recount3")
 library("edgeR")
 library("limma")
