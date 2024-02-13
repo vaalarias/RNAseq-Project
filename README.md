@@ -202,4 +202,6 @@ We visualize genes exhibiting a higher rate of change in the heatmap, enabling u
 
 ## References
 1. A Bioconductor-style differential expression analysis powered by SPEAQeasy. (n.d.). Retrieved from https://research.libd.org/SPEAQeasyWorkshop2023/articles/SPEAQeasyWorkshop2023.html#differential-expression-analysis-1
-2. 
+2. Laurent Perrin, Ursula Loizides-Mangold, Stéphanie Chanon, Cédric Gobet, Nicolas Hulo, Laura Isenegger, Benjamin D Weger, Eugenia Migliavacca, Aline Charpagne, James A Betts, Jean-Philippe Walhin, Iain Templeman, Keith Stokes, Dylan Thompson, Kostas Tsintzas, Maud Robert, Cedric Howald, Howard Riezman, Jerome N Feige, Leonidas G Karagounis, Jonathan D Johnston, Emmanouil T Dermitzakis, Frédéric Gachon, Etienne Lefai, Charna Dibner (2018) Transcriptomic analyses reveal rhythmic and CLOCK-driven pathways in human skeletal muscle.
+3. Wikipedia. (n.d.). Empirical Bayes method. Web site: https://en.wikipedia.org/wiki/Empirical_Bayes_method#:~:text=Empirical Bayes methods are procedures,before any data are observed.
+    
