@@ -20,4 +20,5 @@ rse_gene_SRP127581 <- create_rse(
 )
 ## Convertir las cuentas crudas a cuentas por lectura
 assay(rse_gene_SRP127581, "counts") <- compute_read_counts(rse_gene_SRP127581)
-rse_gene_SRP127581$sra.sample_attributes
+## Ver
+#rse_gene_SRP127581$sra.sample_attributes
