@@ -29,7 +29,7 @@ top30_genes <- head(results[order(abs(results$logFC), decreasing = TRUE), ], 30)
 # exprs_top30 <- vGene$E[intersect(top30_genes, rownames(vGene$E)), ]
 exprs_heatmap <-vGene$E[intersect(top30_genes, rownames(vGene$E)), ]
 nombres <- rownames(results)
-nombres
+#nombres
 rownames(exprs_heatmap) <- results$gene_name[match(rownames(exprs_heatmap), nombres)]
 df <- as.data.frame(colData(rse_gene_SRP127581)[, c("sra_attribute.time","assigned_gene_prop" )])
 colnames(df) <- c("time", "gene_prop")
